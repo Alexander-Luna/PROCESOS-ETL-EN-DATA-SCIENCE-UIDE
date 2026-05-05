@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+lxml
+tqdm 
+requests
+kagglehub
+matplotlib
+seaborn
